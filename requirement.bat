@@ -1,0 +1,14 @@
+pip install tkinter
+pip install pystyle
+pip install os
+pip install time
+pip install urllib
+pip install string
+pip install random
+pip install colorama
+pip install cloudscraper
+pip install socks
+pip install pysocks
+pip install undetected_chromedriver
+pip install httpx
+pip install bs4
